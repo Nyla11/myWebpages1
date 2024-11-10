@@ -43,15 +43,7 @@
 }
 
 /* 并集选择器 */
-.tech-dept, .员工信息 {
-  font-family: Arial, sans-serif;
-  line-height: 1.5;
-}
-.marketing-dept, .员工信息 {
-  font-family: Arial, sans-serif;
-  line-height: 1.5;
-}
-.hr-dept, .员工信息 {
+.tech-dept,.marketing-dept {
   font-family: Arial, sans-serif;
   line-height: 1.5;
 }
